@@ -137,7 +137,7 @@ The template is optimized for the following screen sizes:
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 ## 📞 Support
 
@@ -146,7 +146,3 @@ For questions, customizations, or professional development services:
 - **Website**: [RiverTheme.com](https://RiverTheme.com)
 - **Email**: Contact through the website
 - **Services**: Custom web development, design, and consultation
-
----
-
-**Developed by [RiverTheme](https://RiverTheme.com)** - Creating beautiful, functional web experiences.
